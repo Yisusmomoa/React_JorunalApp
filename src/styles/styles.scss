@@ -1,0 +1,13 @@
+// importamos settings
+@import './base/settings';
+@import './base/base';
+
+// esto nos permite trabajar de manera segmentada
+
+// components
+
+@import './components/auth';
+@import './components/buttons';
+@import './components/links';
+@import './components/journal'
+
